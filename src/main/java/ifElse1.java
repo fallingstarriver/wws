@@ -23,7 +23,7 @@ public class ifElse1
                     System.out.println("Output" + (int)input);
                 }
             else
-            {
+                {
                     System.out.println("Output" + input);
                 }
         }
